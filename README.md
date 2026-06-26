@@ -10,10 +10,16 @@ The purpose of this repository is to store and manage study materials in one pla
 
 This repository may include:
 
-Lecture notes
-Presentation slides
-Code examples
-Lab exercises
-Reference materials
-Useful links
-Summary documents
+- Lecture notes
+
+- Presentation slides
+
+- Code examples
+
+- Lab exercises
+
+- Reference materials
+
+- Useful links
+
+- Summary documents
